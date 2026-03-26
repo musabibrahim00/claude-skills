@@ -11,5 +11,3 @@ Musab Ali Ibrahim
 
 ```bash
 npx skills add musabibrahim00/claude-skills --skill senior-fullstack-product-engineer
-
-
