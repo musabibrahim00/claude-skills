@@ -1,5 +1,7 @@
 # Claude Skills
 
+![Install](https://img.shields.io/badge/install-npx%20skills%20add-blue)
+
 ## Author
 Musab Ali Ibrahim
 
