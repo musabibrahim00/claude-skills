@@ -2,6 +2,8 @@
 
 ![Install](https://img.shields.io/badge/install-npx%20skills%20add-blue)
 
+Senior Full-Stack Product Engineer skill for Claude Code (React + Vite + Tailwind).
+
 ## Author
 Musab Ali Ibrahim
 
@@ -9,3 +11,5 @@ Musab Ali Ibrahim
 
 ```bash
 npx skills add musabibrahim00/claude-skills --skill senior-fullstack-product-engineer
+
+
