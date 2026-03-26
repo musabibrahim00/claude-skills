@@ -1,6 +1,6 @@
 # Claude Skills
-
-Created by Musab Ali Ibrahim
+## Author
+Musab Ali Ibrahim
 
 ## Install
 
