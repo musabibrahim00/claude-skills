@@ -1,6 +1,6 @@
 # Claude Skills
 
-![Install](https://img.shields.io/badge/install-npx%20skills%20add%20musabibrahim00%2Fclaude--skills-blue)
+[![Install](https://img.shields.io/badge/install-npx%20skills%20add%20musabibrahim00%2Fclaude--skills-blue)](https://github.com/musabibrahim00/claude-skills)
 
 Senior Full-Stack Product Engineer skill for Claude Code (React + Vite + Tailwind).
 
