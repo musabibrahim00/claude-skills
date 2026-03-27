@@ -11,3 +11,14 @@ Musab Ali Ibrahim
 
 ```bash
 npx skills add musabibrahim00/claude-skills --skill senior-fullstack-product-engineer
+
+## Example Usage
+
+/senior-fullstack-product-engineer
+Build a dashboard with React and Tailwind
+
+/ui-design-expert
+Improve this UI layout
+
+/ux-auditor
+Analyze UX of this flow
