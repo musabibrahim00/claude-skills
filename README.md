@@ -4,9 +4,19 @@ Claude Code skills by Musab Ali Ibrahim.
 
 High-quality skills for UI, UX, frontend, and backend development.
 
----
+## Available Skills
 
-## Install
+- senior-fullstack-product-engineer
+- ui-design-expert
+- ux-auditor
+- frontend-engineer
 
-```bash
-npx skills add musabibrahim00/claude-skills --skill senior-fullstack-product-engineer
+## Current Usage
+
+Use these skills in Claude Code through the official skill locations in `.claude/skills/...`.
+
+This repo also includes `skills/...` copies for distribution and installer workflows.
+
+## Author
+
+Musab Ali Ibrahim
